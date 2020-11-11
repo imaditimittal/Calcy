@@ -1,6 +1,6 @@
 # calculatorApp
 
-A new Flutter project.
+This is a cross platform app which works on both android and IOS.
 
 ## Getting Started
 
